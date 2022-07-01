@@ -1,1 +1,0 @@
-# Sample-Microservice-using-RabbitMQ

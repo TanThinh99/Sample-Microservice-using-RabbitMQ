@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zsNkrhvr17cI8W6XJXRphbtJSJ7OqgYUVNpFsY/+xM4=",
+  "Source": "ordering-server",
+  "BasePath": "_content/ordering-server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
